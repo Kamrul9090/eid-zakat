@@ -139,7 +139,6 @@ body{
     display: flex;
     width: 100%;
     margin-bottom: 150px;
-  
 }
 .img {
     width: 33%;
@@ -152,4 +151,27 @@ body{
     height: 100%;
     border-radius: 10px;
 
+}
+
+.card-section {
+    margin-bottom: 150px;
+    display: flex;
+    height: 500px;
+}
+.card {
+    padding-top: 0px;
+    box-shadow: 1px 1px 10px 10px gray;
+    border-radius: 10px;
+}
+.card img{
+    width: 362px;
+    height: 230px;
+    border-radius: 10px;
+}
+.card-blog {
+
+}
+.card-blog h1{
+    font-weight: 700;
+    
 }
